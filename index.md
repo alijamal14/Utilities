@@ -3,7 +3,7 @@ Salaamun Alekum
 # Utilities
 # Version 11
 **Note:** *Always Include First 'Enumerators.js' And 'Messages.js' Before Utilities.js Thank You*
-* Added 
+* Added
 	* Files
 		* Enumerators.js
 			* Some Of Most Frequently Used Enumerators

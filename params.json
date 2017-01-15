@@ -1,6 +1,0 @@
-{
-  "name": "Utilities",
-  "tagline": "Update",
-  "body": "Salaamun Alekum\r\n\r\n# Utilities\r\n## Version 10\r\n* Added Function 'AJAXSelectList'\r\n   * This Function Is Based On Select2 So Include Select2.js Before Using This Function\r\n* Updated 'SelectDropDownTextOptionElement'\r\n   * Now It Returns Selector\r\n   * Sting Are Trimed Inside \r\n* Updated 'TakeOnlyInputNumbers'\r\n\r\nThank You\r\n\r\n***\r\n\r\n\r\n##Version 1\r\n* Minor Updates\r\n\r\nThank You\r\nWelcome to the Utilities wiki!\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

@@ -108,8 +108,6 @@ Salaamun Alekum
 
 Thank You
 
-***
-
 
 ##Version 1
 * Minor Updates
